@@ -23,4 +23,6 @@ Admin Dashboard will also show ThingsSpeak visuals.
 
 
 
-https://docs.google.com/videos/d/10BTjg96NbDiM4BOG9sDH7Ps5TFoPztuQAyEbXnnuVy4/play
+## 🎥 Project Demo
+
+[Watch the Demo Video](https://docs.google.com/videos/d/10BTjg96NbDiM4BOG9sDH7Ps5TFoPztuQAyEbXnnuVy4/play)
