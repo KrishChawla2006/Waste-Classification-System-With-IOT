@@ -19,10 +19,12 @@ Data also goes to ThingsSpeak cloud service.
 
 Admin Dashboard will also show ThingsSpeak visuals. 
 
+## 🎥 Project Demo
+
+[Watch the Demo Video](https://docs.google.com/videos/d/10BTjg96NbDiM4BOG9sDH7Ps5TFoPztuQAyEbXnnuVy4/play)
+
+
 <img width="960" height="539" alt="image" src="https://github.com/user-attachments/assets/9e0bf3b0-2501-49e6-a201-b0e4146b0838" />
 
 
 
-## 🎥 Project Demo
-
-[Watch the Demo Video](https://docs.google.com/videos/d/10BTjg96NbDiM4BOG9sDH7Ps5TFoPztuQAyEbXnnuVy4/play)
