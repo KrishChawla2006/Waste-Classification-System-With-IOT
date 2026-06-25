@@ -14,3 +14,5 @@ Dustbin opens through Servo Motor
 When person will show waste front of the Web camera then model will recognize which bin to open.Then it will send request to esp8266 to open that particular bin.Thereafter, person will put garbage in correct bin.
 
 We have also Admin Panel so that admin can monitor bin level and open/close bins with the help of dashbord.
+
+<img width="960" height="539" alt="image" src="https://github.com/user-attachments/assets/9e0bf3b0-2501-49e6-a201-b0e4146b0838" />
